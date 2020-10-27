@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="title">Hello</string>
+    <string name="inputText">inputRMB</string>
+    <string name="textName">Hello</string>
+    <string name="btn1">DOLLAR</string>
+    <string name="btn2">EURO</string>
+    <string name="bnt3">WON</string>
+    <string name="btn4">CONFIG</string>
+    <string name="save_button">SAVE</string>
+    <string name="setting_name">setting</string>
+    <string name="reset_button">RESET</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_lable1">First Page</string>
+    <string name="fragment_lable2">Second Page</string>
+    <string name="fragment_lable3">Third Page</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="settings_title">配置页面</string>
+
+    <!-- 控件标签 -->
+    <string name="set_switch1_label">开关项</string>
+    <string name="set_checkbox1_label">复选项</string>
+    <string name="set_list_label">列表项</string>
+    <string name="set_text1_label">选项1</string>
+    <string name="set_text2_label">选项2</string>
+    <string name="set_group1_label">分组1</string>
+    <string name="set_group2_label">分组2</string>
+
+    <!-- 控件ID -->
+    <string name="set_switch1_key">set_switch1</string>
+    <string name="set_checkbox1_key">set_checkbox1</string>
+    <string name="set_list_key">set_list</string>
+    <string name="set_text1_key">set_text1</string>
+    <string name="set_text2_key">set_text2</string>
+</resources>
